@@ -1,6 +1,6 @@
-#pragma once
+# pragma once
 
-#include <cmath>
+# include <cmath>
 
 struct Coordinates {
     double lat;
